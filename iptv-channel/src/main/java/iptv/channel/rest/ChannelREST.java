@@ -13,7 +13,7 @@ import iptv.channel.pojo.Channel;
 
 /**
  * 
- * @author bhawani.singh
+ * @author ritik.dwivedi
  *
  */
 @Path("channel")
