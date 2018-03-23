@@ -7,7 +7,7 @@ import javax.ws.rs.core.MediaType;
 
 /**
  * 
- * @author Bhawani.Singh
+ * @author Ritik.Dwivedi
  *
  */
 @Path("healthz")
